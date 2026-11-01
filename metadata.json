@@ -1,0 +1,6 @@
+{
+  "name": "Sagar Brand",
+  "description": "Sagar Brand exclusive portal for high-demand digital courses, curated software tools, direct download links, and organized resource management with modern auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
